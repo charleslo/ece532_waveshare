@@ -4,6 +4,9 @@
 
 Requirements:
 * Vivado 2018.1
+* Nexys 4 DDR Board
+* Connections between the OV5640 module and the PMOD headers (pins assigned to JA and JB)
+* Waveshare OV5640 (tested on versions A and C)
 
 This design demonstrates how to capture images from the OV5640 camera and
 write them to the VGA output on the Nexys 4 DDR board. Images are captured in
