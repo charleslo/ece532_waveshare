@@ -35,4 +35,4 @@ Nexys 4 DDR board.
 
 * AXI TFT Product Guide: https://www.xilinx.com/support/documentation/ip_documentation/axi_tft/v2_0/pg095-axi-tft.pdf
 * Waveshare Resources: https://www.waveshare.com/wiki/OV5640_Camera_Board_(C)
-
+* Digilent Board files: https://github.com/Digilent/vivado-boards/
